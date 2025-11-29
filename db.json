@@ -9,6 +9,10 @@
       "id": "gender-narrative",
       "reply": "蝻，小仙女，拳师，女权，男权，性别对立，男女对立",
       "feed": "男女，男拳，女拳，女权，男权，性别对立，男女对立"
+    },
+    {
+      "id": "version",
+      "latest": "1.0.0"
     }
   ],
   "profile": {
